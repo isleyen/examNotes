@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmet\\source\\repos\\examNotes\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\source\\repos\\examNotes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|solutionrelative:fonksiyonlar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|solutionrelative:fonksiyonlar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\source\\repos\\examNotes\\ogrenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\ogrenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A35388F-0A7F-46ED-A224-79CD06044568}|examNotes.vcxproj|solutionrelative:ogrenci.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ogrenci.h",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\examNotes\\ogrenci.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\ogrenci.h",
               "RelativeDocumentMoniker": "ogrenci.h",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\examNotes\\ogrenci.h",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\ogrenci.h",
               "RelativeToolTip": "ogrenci.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "fonksiyonlar.h",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.h",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.h",
               "RelativeDocumentMoniker": "fonksiyonlar.h",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.h",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.h",
               "RelativeToolTip": "fonksiyonlar.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-04T13:36:55.46Z",
               "EditorCaption": ""
@@ -58,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "fonksiyonlar.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.cpp",
               "RelativeDocumentMoniker": "fonksiyonlar.cpp",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\examNotes\\fonksiyonlar.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\fonksiyonlar.cpp",
               "RelativeToolTip": "fonksiyonlar.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-04T13:36:31.579Z",
               "EditorCaption": ""
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmet\\source\\repos\\examNotes\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\ahmet\\source\\repos\\examNotes\\main.cpp",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\examNotes\\examNotes\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAADAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-04T13:36:05.948Z",
               "EditorCaption": ""
